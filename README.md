@@ -1,9 +1,7 @@
 <h1>Getting Started with Create React App</h1>
-<hr>
 This project was bootstrapped with Create React App.
 
 <h4>Available Scripts</h4>
-<hr>
 In the project directory, you can run:
 
 <h1>npm start</h1>
@@ -13,7 +11,7 @@ Open http://localhost:3000 to view it in your browser.
 The page will reload when you make changes.
 You may also see any lint errors in the console.
 
-<h1>npm test</h>
+<h1>npm test</h1>
 
 Launches the test runner in the interactive watch mode.
 See the section about running tests for more information.
